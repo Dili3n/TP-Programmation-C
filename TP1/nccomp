@@ -1,0 +1,3 @@
+#!/bin/bash
+gcc -ansi -pedantic -Wall $1.c -lncurses -lm -o $1
+
