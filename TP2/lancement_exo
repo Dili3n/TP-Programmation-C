@@ -1,0 +1,14 @@
+Pour Lancer un exercice par exemple 
+Menu.c qui se trouve dans EXO2/Menu.c
+
+Il suffit dans un premier temps pour la première éxecution
+de faire un : 
+	chmod u+x nccomp
+
+Ensuite de compiler grace à la commande nccomp et ou se trouve le fichier.
+Tout d'abord veillez à vérifier que votre terminal est bien ouvert dans le dossier TP2 et non dans un de ses fils.
+Compilation : 
+	./nccomp EXO2/Menu
+	
+Execution
+	./EXO2/Menu
